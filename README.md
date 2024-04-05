@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/l41YcLtmnhYyUlbfq.webp" width="200"/>
-  <p>Hi, I'm Max I'm a Junior Systems Administrator</p>
-  <p></p>
+  <p>Hi, I'm Max</p>
+  <p>I'm a Junior Systems Administrator</p>
   
 </div>
 
