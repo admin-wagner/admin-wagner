@@ -14,7 +14,10 @@
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>Python </li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> SQL</li>
 <li><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/>AWS</li>
-  
+</div>
+<br>
+<div>
+I'm actively updating this github profile with short tutorials and projects that reflect my learning of systems administration.
 </div>
 <div align="center">
 <h4 align="left">Connect with me:</h4>
